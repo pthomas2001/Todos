@@ -1,0 +1,21 @@
+body {
+    background: #50E3C2
+}
+div {
+    background: whitesmoke;
+    width: 50%;
+    margin: 20%
+}
+h2 {
+    font-family: sans-serif;
+}
+button {
+    border-left: 0;
+    background: #DF69E8;
+    color: white;
+    height: 40px
+}
+input {
+    border-right: 0;
+    height: 34px
+}
